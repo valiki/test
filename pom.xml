@@ -5,7 +5,7 @@
   <artifactId>by.buziuk</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>by.buziuk Maven Webapp</name>
+  <name>by.buziuk Maven  Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
